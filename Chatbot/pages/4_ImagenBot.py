@@ -5,7 +5,7 @@ from PIL import Image
 from io import BytesIO
 import base64
 
-st.logo("https://dme2wmiz2suov.cloudfront.net/Institution(8663)/Logo/4216689-ThinkRook_Logo.png")
+st.logo("https://upload.wikimedia.org/wikipedia/en/f/ff/Amity_University_logo.png")
 
 st.sidebar.title("Bot Settings")
 

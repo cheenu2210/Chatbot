@@ -1,6 +1,6 @@
 import streamlit as st
 st.set_page_config(page_title="Kartik's Chatbot", page_icon="🚀", layout = "centered")
-st.logo("https://dme2wmiz2suov.cloudfront.net/Institution(8663)/Logo/4216689-ThinkRook_Logo.png")
+st.logo("https://upload.wikimedia.org/wikipedia/en/f/ff/Amity_University_logo.png")
 
 st.title("🤖 Kartik Chatbot")
 st.subheader("Your smart assistant for fast and reliable answers.")
