@@ -1,8 +1,6 @@
 import streamlit as st
-st.logo("https://dme2wmiz2suov.cloudfront.net/Institution(8663)/Logo/4216689-ThinkRook_Logo.png")
-
-
 st.set_page_config(page_title="ThinkRook Chatbot", page_icon="🚀", layout = "centered")
+st.logo("https://dme2wmiz2suov.cloudfront.net/Institution(8663)/Logo/4216689-ThinkRook_Logo.png")
 
 st.title("🤖 ThinkRook Chatbot")
 st.subheader("Your smart assistant for fast and reliable answers.")

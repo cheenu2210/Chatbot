@@ -1,5 +1,3 @@
-# gemini_key = AQ.Ab8RN6LYaxxWlIKqamzOmfipfjb6xSe66MYV-8GdBzRF1ZLTGQ
-
 import streamlit as st
 from google import genai
 from google.genai import types
